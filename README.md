@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 <!--![Spring Boot](https://img.shields.io/badge/Spring_Boot-#6DB33F.svg?&style=for-the-badge&logo=Spring_Boot&logoColor=white)-->
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rinklove)](https://github.com/anuraghazra/github-readme-stats)
