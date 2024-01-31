@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # ✨Back-End Devloper
+  # ✨Back-End Developer
 
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rinklove)](https://github.com/anuraghazra/github-readme-stats)
 
