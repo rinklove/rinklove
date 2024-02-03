@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=junho&)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junho's%20GitHub%20Profile&descAlignY=51&descAlign=59)
 
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rinklove)](https://github.com/anuraghazra/github-readme-stats)
 
