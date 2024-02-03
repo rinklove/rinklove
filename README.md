@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # ✨Back-End Developer
+  ![slice](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&text=junho&)
 
   [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rinklove)](https://github.com/anuraghazra/github-readme-stats)
 
